@@ -1,6 +1,6 @@
 # Hi, I'm Jasur Ungarov 👋
 
-- 🔭 I’m currently working as Sammi Exprence.
+- 🔭 I’m currently working as Sammi Experience.
 - 🌱 I’m currently learning Next.js-Backend.
 - 👯 I’m looking to collaborate on open source/commercial projects.
 - 💬 Ask me about Web Development.
