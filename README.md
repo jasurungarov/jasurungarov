@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Next.js-Backend.
 - 👯 I’m looking to collaborate on open source/commercial projects.
 - 💬 Ask me about Web Development.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/in/jasur_ungarov/) [Telegram](https://www.instagram.com/in/aliabdulwahid/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/in/jasur_ungarov/) [Telegram](https://www.t.me/in/aliabdulwahid/)
 - ⚡ Fun fact: I enjoy hiking and exploring new technologies.
 
 ## My Skills
