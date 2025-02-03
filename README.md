@@ -12,12 +12,6 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,mongodb,vercel,netlify,git,github)
 ![My Skills](https://skillicons.dev/icons?i=html,css,firebase,mysql,bootstrap,vscode,bash,figma)
 
-## Github Status
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions. Thank you for visiting my profile!
-
-![Jasur's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasurungarov&show_icons=true&theme=tokyonight)
-
 
 ## Most Used Weapons
 
